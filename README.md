@@ -44,12 +44,42 @@ I practised creating, compiling and running a Java programme.
 
 ---
 
-# Week 3: Variables, Data Types, Expressions and Input/Output
 
-## Practical Files
-- week03/SimpleCalculator.java
-- week03/AverageCalculator.java
-- week03/ItemCost.java
+## Week 3: Variables, Data Types, Expressions and Input/Output
 
-## Learning Outcome
-I practised using variables, data types, arithmetic expressions and output statements in Java.
+### Objectives
+- Declare and initialize Java variables.
+- Use appropriate primitive and reference data types.
+- Perform arithmetic calculations.
+- Read keyboard input using Scanner.
+- Display formatted output.
+- Compile, test and submit Java programs using GitHub.
+
+### Programs
+
+1. `week03/SimpleCalculator.java`
+   - Performs arithmetic calculations on two numbers.
+
+2. `week03/AverageCalculator.java`
+   - Calculates the total and average of three student scores.
+
+3. `week03/ItemCost.java`
+   - Calculates the total cost using quantity and unit price.
+
+### How to Run
+
+Compile and run SimpleCalculator:
+- `javac SimpleCalculator.java`
+- `java SimpleCalculator`
+
+Compile and run AverageCalculator:
+- `javac AverageCalculator.java`
+- `java AverageCalculator`
+
+Compile and run ItemCost:
+- `javac ItemCost.java`
+- `java ItemCost`
+
+### Testing
+Test each program with different valid inputs
+and verify that the results match the expected calculations.
